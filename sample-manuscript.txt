@@ -1,0 +1,36 @@
+Measuring the Unmeasurable: A Sample Manuscript
+
+Abstract
+
+This sample paper exists to show what QDVC Citations Check finds. Paste it into the app and click Check.
+
+1. Introduction
+
+Research on effort tracking has a long history (Smith 2020; Brown and Lee 2019). Earlier work focused on time sheets (Nguyen 2025), while more recent studies look at cognitive load (Garcia et al. 2021). According to Liesenfeld and Dingemanse (2024), open models make replication easier, a point Öqvist (2022) also makes.
+
+Several authors disagree (Smith & Jones 2020). Others report mixed results (Patel, 2018), and a few studies are still in press (Kowalski 2023a).
+
+2. Method
+
+We followed the protocol of Smith (2020) and the coding scheme in Brown and Lee (2019). The Treaty was signed (2019), which is not a citation. Data were collected over twelve weeks (see Table 1).
+
+3. Discussion
+
+As Garcia et al. (2021) note, workload is subjective. The findings agree with Mähring and Pries-Heje (2017).
+
+References
+
+Adams Z (2015). “An entry nobody cites”. Journal of Things, 1(1):1-5
+Brown C and Lee D (2019) Counting what counts. Journal of Measurement (8:1):5-9
+Garcia M, Ito K & Novak P (2021). “Cognitive load at work”. Ergonomics Quarterly, 33(2):101-120
+Hobbes T (1651) Leviathan or The Matter, Forme and Power of a Commonwealth. Project Gutenberg
+Kowalski T (2023a). “Notes on in-press work”. Journal of Things, 4(2):1-9
+Liesenfeld A & Dingemanse M (2024). “Rethinking open source generative AI”. Proceedings of FAccT, 7(1):1-14
+Mähring M & Pries-Heje J (2017). “Projects as journeys”. In: Kowal R (ed) The Big Book of Projects. Wiley, Hoboken
+Öqvist L (2022). Open science in practice. University Press, Uppsala
+Smith A (2020). “Effort and its discontents”. Journal of Workload Studies, 12(3):45-67
+Patel R (2018). “A study that is cited”. Journal of Things, 2(1):10-20
+
+Appendix A
+
+The coding manual draws on Hobbes (1651).
